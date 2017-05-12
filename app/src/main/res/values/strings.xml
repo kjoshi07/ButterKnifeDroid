@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButterKnife Droid</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
